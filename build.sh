@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Built zzz ahaha gain o lolk yes > index.html
+echo Built zha ha hazz ahaha gain o lolk yes > index.html
