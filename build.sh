@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Built again ok > index.html
+echo Built again o lolk > index.html
