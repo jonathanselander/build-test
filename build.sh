@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Built again o lolk yes > index.html
+echo Built ahaha gain o lolk yes > index.html
